@@ -37,5 +37,16 @@ img{
 }
 .aside__info{
     display: block;
-    font-family: ;
+    font-family: 'Outfit', sans-serif;
+}
+.text{
+    text-align: center;
+}
+
+.text__principal{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.text__secundario{
+    color: var(--Grayish_blue);
 }
